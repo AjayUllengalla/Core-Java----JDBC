@@ -113,6 +113,7 @@ public class PreparedStatementsMain {
 			e.printStackTrace();
 		}
 
+		sc.close();
 	}
 
 }
